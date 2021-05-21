@@ -1,0 +1,95 @@
+.header{
+     background:darkcyan;
+     position: fixed;
+      width: 100%;
+       z-index: 1;
+       
+}
+.brand-name{
+     text-decoration: none;
+     
+     width: 15%;
+     
+    
+}
+.bg-image{
+    background-image: url(pexels-burst-374631.jpg);
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+}
+.home-container{
+    padding-top: 21%;
+     padding-bottom: 21%;
+}
+.icons{
+    width: 70px; 
+    margin-left: 34% ;
+}
+.submit-btn{
+    width: 50%;
+}
+.footer{
+    background-color: darkcyan;
+}
+.brand-copyright{
+    font-size: x-small;
+}
+.card-height{
+    height: 25vh;
+    
+}
+.priority {
+    color: black;
+    background:white ;
+    width: 75%;
+    margin-left:12.5%;
+    height: 60vh;
+    border: black solid;
+    border-width: 5px;
+}
+.priority-background{
+    background :gray;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    
+}
+.coustmer-statisfication-logo
+{
+    width: 180px;
+    height: 180px;
+    margin-bottom: 3%;
+}
+.Service{
+    background:black;
+    width: 100%;
+    height: 100%;
+}
+.card-height1{
+    height: 40vh;
+    
+}
+.about-me{
+    color: black;
+    background: white;
+    width: 75%;
+    height: 60vh;
+    margin-left: 12.5%;
+    border-width: 5px;
+    border: black solid;
+    border-radius: 10px;
+}
+.about-me-background{
+    background-color: gray;
+    padding-top:3%;
+    padding-bottom: 3%;
+}
+.about-me-logo{
+    image-resolution: initial;
+    width: 300px;
+}.home{
+    border: black solid;
+    border-width: 3px;
+    color:black;
+    background-color: springgreen;
+}
